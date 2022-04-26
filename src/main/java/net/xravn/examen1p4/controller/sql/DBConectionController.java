@@ -1,8 +1,8 @@
-package backend.controller.sql;
+package net.xravn.examen1p4.controller.sql;
 
-import backend.controller.configuration.ConfigurationManager;
-import backend.model.sql.DBConnection;
 import java.sql.Connection;
+import net.xravn.examen1p4.controller.configuration.ConfigurationManager;
+import net.xravn.examen1p4.model.sql.DBConnection;
 
 
 /**

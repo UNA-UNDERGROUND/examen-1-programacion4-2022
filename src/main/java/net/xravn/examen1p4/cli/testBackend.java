@@ -1,6 +1,8 @@
-package backend.cli;
+package net.xravn.examen1p4.cli;
 
-import backend.controller.sql.DBConectionController;
+import net.xravn.examen1p4.controller.sql.DBConectionController;
+
+
 
 
 

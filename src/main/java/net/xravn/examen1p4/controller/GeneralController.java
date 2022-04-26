@@ -1,4 +1,4 @@
-package net.xravn.examen1.controller;
+package net.xravn.examen1p4.controller;
 
 
 public class GeneralController {

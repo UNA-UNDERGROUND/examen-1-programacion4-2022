@@ -1,8 +1,9 @@
-package backend;
+package net.xravn.examen1p4;
 
-import backend.cli.testBackend;
-import backend.controller.configuration.ConfigurationManager;
+
 import java.util.Arrays;
+import net.xravn.examen1p4.cli.testBackend;
+import net.xravn.examen1p4.controller.configuration.ConfigurationManager;
 
 
 

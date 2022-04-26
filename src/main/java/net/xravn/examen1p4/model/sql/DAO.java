@@ -1,6 +1,6 @@
-package backend.model.sql;
+package net.xravn.examen1p4.model.sql;
 
-import backend.controller.sql.DBConectionController;
+
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
@@ -10,6 +10,7 @@ import java.util.List;
 import java.util.Map;
 
 import com.mysql.cj.jdbc.result.ResultSetMetaData;
+import net.xravn.examen1p4.controller.sql.DBConectionController;
 
 
 

@@ -27,7 +27,7 @@ public class DBConectionController {
             } else {
                 database = config.getTestDatabaseSchema();
                 user = config.getTestDatabaseUser();
-                password = config.getTestDatabaseUser();
+                password = config.getTestDatabasePassword();
             }
             DBConnection instance = DBConnection.getInstance();
             instance.setTestMode(testMode);

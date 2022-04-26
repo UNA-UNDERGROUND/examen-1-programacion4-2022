@@ -1,4 +1,4 @@
-package net.xravn.examen2.model.util;
+package net.xravn.examen1.model.util;
 
 import java.io.File;
 import java.net.URL;

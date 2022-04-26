@@ -1,9 +1,9 @@
-package net.xravn.examen2.model.sql;
+package net.xravn.examen1.model.sql;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
 
-import net.xravn.examen2.controller.configuration.ConfigurationManager;
+import net.xravn.examen1.controller.configuration.ConfigurationManager;
 
 /**
  * Clase que permite la conexion a la base de datos

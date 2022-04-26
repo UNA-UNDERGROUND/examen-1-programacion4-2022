@@ -1,9 +1,9 @@
-package net.xravn.examen2;
+package net.xravn.examen1;
 
 import java.util.Arrays;
 
-import net.xravn.examen2.cli.testBackend;
-import net.xravn.examen2.controller.configuration.ConfigurationManager;
+import net.xravn.examen1.cli.testBackend;
+import net.xravn.examen1.controller.configuration.ConfigurationManager;
 
 
 public class Application {

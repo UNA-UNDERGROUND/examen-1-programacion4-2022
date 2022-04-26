@@ -1,11 +1,11 @@
-package net.xravn.examen2.controller.configuration;
+package net.xravn.examen1.controller.configuration;
 
 import java.io.File;
 
 import com.moandjiezana.toml.Toml;
 
 import ch.qos.logback.classic.Logger;
-import net.xravn.examen2.model.util.ResourceManager;
+import net.xravn.examen1.model.util.ResourceManager;
 
 public class ConfigurationManager {
 

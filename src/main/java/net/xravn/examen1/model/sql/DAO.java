@@ -1,4 +1,4 @@
-package net.xravn.examen2.model.sql;
+package net.xravn.examen1.model.sql;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
@@ -10,7 +10,7 @@ import java.util.Map;
 
 import com.mysql.cj.jdbc.result.ResultSetMetaData;
 
-import net.xravn.examen2.controller.sql.DBConectionController;
+import net.xravn.examen1.controller.sql.DBConectionController;
 
 public class DAO {
     protected Connection getConnection() {

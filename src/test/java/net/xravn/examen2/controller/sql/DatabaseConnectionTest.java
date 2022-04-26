@@ -4,7 +4,8 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 
 import org.junit.jupiter.api.Test;
 
-import net.xravn.examen2.controller.configuration.ConfigurationManager;
+import net.xravn.examen1.controller.configuration.ConfigurationManager;
+import net.xravn.examen1.controller.sql.DBConectionController;
 
 public class DatabaseConnectionTest {
     @Test

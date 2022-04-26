@@ -1,6 +1,6 @@
-package net.xravn.examen1p4.cli;
+package net.xravn.examen1p4.boilerplate.controller.cli;
 
-import net.xravn.examen1p4.controller.sql.DBConectionController;
+import net.xravn.examen1p4.boilerplate.controller.sql.DBConectionController;
 
 
 

@@ -1,12 +1,12 @@
-package net.xravn.examen1p4.controller.configuration;
+package net.xravn.examen1p4.boilerplate.controller.configuration;
 
 
 import java.io.File;
 
 import com.moandjiezana.toml.Toml;
 
-import net.xravn.examen1p4.model.util.ResourceManager;
 import ch.qos.logback.classic.Logger;
+import net.xravn.examen1p4.boilerplate.util.ResourceManager;
 
 public class ConfigurationManager {
 

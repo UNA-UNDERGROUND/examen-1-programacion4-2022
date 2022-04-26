@@ -1,9 +1,10 @@
-package net.xravn.examen1p4;
+package net.xravn.examen1p4.boilerplate;
 
 
 import java.util.Arrays;
-import net.xravn.examen1p4.cli.testBackend;
-import net.xravn.examen1p4.controller.configuration.ConfigurationManager;
+
+import net.xravn.examen1p4.boilerplate.controller.cli.testBackend;
+import net.xravn.examen1p4.boilerplate.controller.configuration.ConfigurationManager;
 
 
 

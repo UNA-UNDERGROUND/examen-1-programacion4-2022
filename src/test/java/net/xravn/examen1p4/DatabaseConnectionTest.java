@@ -1,11 +1,11 @@
-package net.xravn.examen1p4.backend.controller.sql;
+package net.xravn.examen1p4;
 
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
 import org.junit.jupiter.api.Test;
 
-import net.xravn.examen1p4.controller.configuration.ConfigurationManager;
-import net.xravn.examen1p4.controller.sql.DBConectionController;
+import net.xravn.examen1p4.boilerplate.controller.configuration.ConfigurationManager;
+import net.xravn.examen1p4.boilerplate.controller.sql.DBConectionController;
 
 
 

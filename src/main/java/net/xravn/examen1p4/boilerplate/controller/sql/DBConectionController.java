@@ -1,8 +1,9 @@
-package net.xravn.examen1p4.controller.sql;
+package net.xravn.examen1p4.boilerplate.controller.sql;
 
 import java.sql.Connection;
-import net.xravn.examen1p4.controller.configuration.ConfigurationManager;
-import net.xravn.examen1p4.model.sql.DBConnection;
+
+import net.xravn.examen1p4.boilerplate.controller.configuration.ConfigurationManager;
+import net.xravn.examen1p4.boilerplate.model.sql.DBConnection;
 
 
 /**

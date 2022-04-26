@@ -1,4 +1,4 @@
-package net.xravn.examen1p4.model.sql;
+package net.xravn.examen1p4.boilerplate.model.sql;
 
 
 import java.sql.Connection;
@@ -10,7 +10,8 @@ import java.util.List;
 import java.util.Map;
 
 import com.mysql.cj.jdbc.result.ResultSetMetaData;
-import net.xravn.examen1p4.controller.sql.DBConectionController;
+
+import net.xravn.examen1p4.boilerplate.controller.sql.DBConectionController;
 
 
 

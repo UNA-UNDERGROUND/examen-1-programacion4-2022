@@ -1,6 +1,8 @@
-package net.xravn.examen1.cli;
+package backend.cli;
 
-import net.xravn.examen1.controller.sql.DBConectionController;
+import backend.controller.sql.DBConectionController;
+
+
 
 public class testBackend {
     public Integer testDatabase() {

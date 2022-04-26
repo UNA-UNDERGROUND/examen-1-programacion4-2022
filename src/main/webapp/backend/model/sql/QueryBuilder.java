@@ -1,4 +1,4 @@
-package net.xravn.examen1.model.sql;
+package backend.model.sql;
 
 public class QueryBuilder {
     private String query;

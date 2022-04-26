@@ -1,4 +1,4 @@
-package net.xravn.examen1.model.util;
+package backend.model.util;
 
 import java.io.File;
 import java.net.URL;

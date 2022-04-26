@@ -1,11 +1,11 @@
-package net.xravn.examen1.controller.configuration;
+package backend.controller.configuration;
 
+import backend.model.util.ResourceManager;
 import java.io.File;
 
 import com.moandjiezana.toml.Toml;
 
 import ch.qos.logback.classic.Logger;
-import net.xravn.examen1.model.util.ResourceManager;
 
 public class ConfigurationManager {
 

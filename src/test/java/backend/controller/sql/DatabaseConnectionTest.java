@@ -1,11 +1,11 @@
-package net.xravn.examen2.controller.sql;
+package backend.controller.sql;
 
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
 import org.junit.jupiter.api.Test;
 
-import net.xravn.examen1.controller.configuration.ConfigurationManager;
-import net.xravn.examen1.controller.sql.DBConectionController;
+import backend.controller.configuration.ConfigurationManager;
+import backend.controller.sql.DBConectionController;
 
 public class DatabaseConnectionTest {
     @Test

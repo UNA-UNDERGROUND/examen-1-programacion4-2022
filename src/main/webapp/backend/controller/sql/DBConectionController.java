@@ -1,9 +1,9 @@
-package net.xravn.examen1.controller.sql;
+package backend.controller.sql;
 
+import backend.controller.configuration.ConfigurationManager;
+import backend.model.sql.DBConnection;
 import java.sql.Connection;
 
-import net.xravn.examen1.controller.configuration.ConfigurationManager;
-import net.xravn.examen1.model.sql.DBConnection;
 
 /**
  * Clase que permite la conexion con la base de datos

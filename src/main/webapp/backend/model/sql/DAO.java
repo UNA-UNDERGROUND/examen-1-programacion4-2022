@@ -1,5 +1,6 @@
-package net.xravn.examen1.model.sql;
+package backend.model.sql;
 
+import backend.controller.sql.DBConectionController;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
@@ -10,7 +11,7 @@ import java.util.Map;
 
 import com.mysql.cj.jdbc.result.ResultSetMetaData;
 
-import net.xravn.examen1.controller.sql.DBConectionController;
+
 
 public class DAO {
     protected Connection getConnection() {
